@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artemBogdantsev
-- 👀 I’m interested in DevOps, SRE, Service Mesh and Serverless, etc.
-- 🌱 I’m currently working at usercentrics, one of the leading Consent Management Platform (CMP)!  
+- 👀 I’m interested in GCP, DevOps, SRE, Service Mesh and Serverless, etc.
+- 🌱 I’m currently working at T-Systems
 - 💞️ I’m looking to collaborate on opensource projects as well as grow my professional network
 - 📫 You could reach me at https://www.linkedin.com/in/botem/
 
